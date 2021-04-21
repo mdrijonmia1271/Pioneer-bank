@@ -1,0 +1,21 @@
+1. document.body.contentEditable = true
+2. alert('your email or password not valid');
+3. confirm('are you coming in the picnic');
+4. prompt('tell me your name');
+5. window.location
+6. location.reload()
+7. location
+8. location.assign('https://www.programming-hero.com/');
+9. location.href = "https://www.programming-hero.com/";
+10. history
+11. history.back();
+12. history.forward();
+13. history.go(2);
+14. localStorage
+15. localStorage.setItem("isSubscribe", "true");
+16. sessionStorage.setItem("isSubscribe", "true");
+.......search chrome browser......
+1. chrome://settings
+2. chrome://extensions
+3. chrome://restart
+3. shift + esc
